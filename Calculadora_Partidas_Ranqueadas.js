@@ -4,7 +4,7 @@ function CalcularPartidasRanqueadas(Vitorias, Derrotas){
     let Resultado = Vitorias - Derrotas;
     if(Resultado <= 10){
          nivel = "Ferro";
-    }else if(Resultado > 10 && Resultado<= 20){
+    }else if(Resultado > 10 && Resultado <= 20){
          nivel = "Bronze";
     }else if(Resultado > 20 && Resultado <= 50){
          nivel = "Prata";
