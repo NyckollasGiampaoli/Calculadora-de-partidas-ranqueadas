@@ -1,5 +1,4 @@
-//Usei os valores como exemplo
-console.log(CalcularPartidasRanqueadas(116, 15));
+console.log(CalcularPartidasRanqueadas());
 function CalcularPartidasRanqueadas(Vitorias, Derrotas){
     let nivel;
     let Resultado = Vitorias - Derrotas;
