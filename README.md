@@ -1,4 +1,4 @@
-# Calculadora-de-partidas-ranqueadas
+# Calculadora de partidas ranqueadas
 
 ## Sobre o Desafio 
    
